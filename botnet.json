@@ -1,0 +1,6 @@
+{
+  "endpoints": [
+    "http://159.65.14.41:2216/api/adel?key=adel",
+    "http://178.128.62.216:2216/api/adel?key=adel"
+  ]
+}

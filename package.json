@@ -1,0 +1,20 @@
+{
+  "name": "enzy-ultimate",
+  "version": "1.0.0",
+  "description": "ENZY Ultimate DDoS Toolkit",
+  "main": "enzy.js",
+  "scripts": {
+    "start": "node enzy.js",
+    "install": "./installer.sh"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "gradient-string": "^2.0.2",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "author": "Enzy",
+  "license": "MIT"
+}
